@@ -10,3 +10,15 @@ C:\Users\mac46\Desktop\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.c
 C:\Users\mac46\Desktop\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.dll
 C:\Users\mac46\Desktop\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
 C:\Users\mac46\Desktop\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\DataAccess.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.pdb

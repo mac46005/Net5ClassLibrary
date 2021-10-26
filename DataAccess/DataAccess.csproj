@@ -1,12 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
-
   <ItemGroup>
-    <Folder Include="Classes\" />
-    <Folder Include="Interfaces\" />
+    <Folder Include="Classes\"/>
+    <Folder Include="Interfaces\"/>
   </ItemGroup>
-
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.90"/>
+  </ItemGroup>
 </Project>

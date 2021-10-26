@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xssK5z4SYIfnzCLO0PmbfnTRww5Xl0VC98PWHPrDCjrgmHlJLtHaVZLUD5lbrwRBo0tCZPydZglxMZT7YYHvNw==",
+  "dgSpecHash": "XGQiqYj9OdHZzzNfmqieZlxsxTbgPpRffAVrkXCWF4Woezma1bE5vSm0Pgkoslgf63N4FiNHXoWiRptx6SUyLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mac46\\Desktop\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "f:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mac46\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
   "logs": []
 }
