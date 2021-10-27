@@ -4,6 +4,7 @@
     <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
     <ProjectReference Include="..\ConsoleMVCPattern\ConsoleMVCPattern.csproj" />
     <ProjectReference Include="..\MathScience.ClassLib\MathScience.ClassLib.csproj" />
+    <ProjectReference Include="..\DesignPatterns.ClassLib\DesignPatterns.ClassLib.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
