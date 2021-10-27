@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBAccess.ClassLib", "DBAcce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People.ClassLib", "People.ClassLib\People.ClassLib.csproj", "{1885D810-4C93-47B4-974D-F96FC72CB068}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleInformation.ClassLib", "PeopleInformation.ClassLib\PeopleInformation.ClassLib.csproj", "{CBF99289-9180-422B-892E-BBBC13E5055C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1885D810-4C93-47B4-974D-F96FC72CB068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1885D810-4C93-47B4-974D-F96FC72CB068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1885D810-4C93-47B4-974D-F96FC72CB068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF99289-9180-422B-892E-BBBC13E5055C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF99289-9180-422B-892E-BBBC13E5055C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF99289-9180-422B-892E-BBBC13E5055C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF99289-9180-422B-892E-BBBC13E5055C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

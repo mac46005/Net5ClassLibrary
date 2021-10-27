@@ -7,6 +7,7 @@
     <ProjectReference Include="..\DesignPatterns.ClassLib\DesignPatterns.ClassLib.csproj" />
     <ProjectReference Include="..\DBAccess.ClassLib\DBAccess.ClassLib.csproj" />
     <ProjectReference Include="..\People.ClassLib\People.ClassLib.csproj" />
+    <ProjectReference Include="..\PeopleInformation.ClassLib\PeopleInformation.ClassLib.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
