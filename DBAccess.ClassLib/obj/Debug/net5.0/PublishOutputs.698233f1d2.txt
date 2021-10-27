@@ -1,0 +1,3 @@
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\publish\DBAccess.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\publish\DBAccess.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\publish\DBAccess.ClassLib.pdb

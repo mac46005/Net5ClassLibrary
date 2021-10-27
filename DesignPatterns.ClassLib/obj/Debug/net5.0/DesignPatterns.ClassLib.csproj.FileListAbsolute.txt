@@ -10,3 +10,7 @@ F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\DesignPatterns.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\ref\DesignPatterns.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\DesignPatterns.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\bin\Debug\net5.0\DesignPatterns.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\bin\Debug\net5.0\DesignPatterns.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\bin\Debug\net5.0\ref\DesignPatterns.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\bin\Debug\net5.0\DesignPatterns.ClassLib.pdb

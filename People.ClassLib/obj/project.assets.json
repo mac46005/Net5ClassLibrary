@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "PeopleInformation.ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PeopleInformation.ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleInformation.ClassLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PeopleInformation.ClassLib/1.0.0": {
+      "type": "project",
+      "path": "../PeopleInformation.ClassLib/PeopleInformation.ClassLib.csproj",
+      "msbuildProject": "../PeopleInformation.ClassLib/PeopleInformation.ClassLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "PeopleInformation.ClassLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mac46\\.nuget\\packages\\": {},
@@ -41,7 +60,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {
+              "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

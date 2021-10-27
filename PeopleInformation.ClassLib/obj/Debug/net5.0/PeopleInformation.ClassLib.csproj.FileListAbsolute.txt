@@ -1,0 +1,16 @@
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\PeopleInformation.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\PeopleInformation.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\ref\PeopleInformation.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\PeopleInformation.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.csproj.AssemblyReference.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.AssemblyInfoInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.AssemblyInfo.cs
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.csproj.CoreCompileInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\ref\PeopleInformation.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\ref\PeopleInformation.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.pdb

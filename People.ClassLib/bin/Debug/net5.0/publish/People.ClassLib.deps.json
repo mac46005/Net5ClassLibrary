@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "People.ClassLib/1.0.0": {
+        "dependencies": {
+          "PeopleInformation.ClassLib": "1.0.0"
+        },
+        "runtime": {
+          "People.ClassLib.dll": {}
+        }
+      },
+      "PeopleInformation.ClassLib/1.0.0": {
+        "runtime": {
+          "PeopleInformation.ClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "People.ClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeopleInformation.ClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

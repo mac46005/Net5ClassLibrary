@@ -1,0 +1,4 @@
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\publish\DataAccess.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\publish\DataAccess.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\publish\DataAccess.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\publish\Dapper.dll

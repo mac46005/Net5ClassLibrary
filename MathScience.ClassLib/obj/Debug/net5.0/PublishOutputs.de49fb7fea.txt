@@ -1,0 +1,3 @@
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\publish\MathScience.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\publish\MathScience.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\publish\MathScience.ClassLib.pdb

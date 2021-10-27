@@ -4,6 +4,6 @@ namespace ConsoleMVCPattern.Interfaces{
     public interface IController{
         void RequestView(IView view);
         IView ResponseView();
-        List<IView> ViewList {get;set;}
+        IView ViewList {get;set;}
     }
 }

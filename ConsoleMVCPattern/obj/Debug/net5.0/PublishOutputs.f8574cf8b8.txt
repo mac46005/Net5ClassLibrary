@@ -1,0 +1,3 @@
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\publish\ConsoleMVCPattern.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\publish\ConsoleMVCPattern.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\publish\ConsoleMVCPattern.pdb

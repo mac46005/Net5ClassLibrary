@@ -10,3 +10,7 @@ F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\ref\DBAccess.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\DBAccess.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\DBAccess.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\ref\DBAccess.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\DBAccess.ClassLib.pdb

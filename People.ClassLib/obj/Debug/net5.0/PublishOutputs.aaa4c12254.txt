@@ -1,0 +1,5 @@
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\publish\People.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\publish\People.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\publish\People.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\publish\PeopleInformation.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\publish\PeopleInformation.ClassLib.pdb

@@ -1,0 +1,3 @@
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\bin\Debug\net5.0\publish\DesignPatterns.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\bin\Debug\net5.0\publish\DesignPatterns.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\bin\Debug\net5.0\publish\DesignPatterns.ClassLib.pdb

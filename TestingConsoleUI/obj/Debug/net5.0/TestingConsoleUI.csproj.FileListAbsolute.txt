@@ -53,3 +53,11 @@ F:\PROGRAMMING\GitHub_Repositories\DllCollection\TestingConsoleUI.runtimeconfig.
 F:\PROGRAMMING\GitHub_Repositories\DllCollection\TestingConsoleUI.dll
 F:\PROGRAMMING\GitHub_Repositories\DllCollection\ref\TestingConsoleUI.dll
 F:\PROGRAMMING\GitHub_Repositories\DllCollection\TestingConsoleUI.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\DBAccess.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\DesignPatterns.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\People.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\PeopleInformation.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\DesignPatterns.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\DBAccess.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\People.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\PeopleInformation.ClassLib.pdb
