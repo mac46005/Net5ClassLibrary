@@ -33,6 +33,16 @@
         "runtime": {
           "bin/placeholder/DataAccess.dll": {}
         }
+      },
+      "MathScience.ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MathScience.ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathScience.ClassLib.dll": {}
+        }
       }
     }
   },
@@ -64,12 +74,18 @@
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
       "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
+    "MathScience.ClassLib/1.0.0": {
+      "type": "project",
+      "path": "../MathScience.ClassLib/MathScience.ClassLib.csproj",
+      "msbuildProject": "../MathScience.ClassLib/MathScience.ClassLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "ConsoleMVCPattern >= 1.0.0",
-      "DataAccess >= 1.0.0"
+      "DataAccess >= 1.0.0",
+      "MathScience.ClassLib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -112,6 +128,9 @@
             },
             "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {
               "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj"
+            },
+            "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {
+              "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj"
             }
           }
         }

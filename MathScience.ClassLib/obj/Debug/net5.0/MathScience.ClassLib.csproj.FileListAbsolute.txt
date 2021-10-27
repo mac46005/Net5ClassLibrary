@@ -1,0 +1,12 @@
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\MathScience.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\MathScience.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\ref\MathScience.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\MathScience.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.csproj.AssemblyReference.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.AssemblyInfoInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.AssemblyInfo.cs
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.csproj.CoreCompileInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\ref\MathScience.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.pdb

@@ -20,3 +20,5 @@ F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\obj\Debug\n
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\ref\TestingConsoleUI.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.pdb
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.genruntimeconfig.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\MathScience.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\MathScience.ClassLib.pdb
