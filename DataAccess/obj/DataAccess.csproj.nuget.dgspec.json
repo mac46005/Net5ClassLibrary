@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {}
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "f:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "f:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "f:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

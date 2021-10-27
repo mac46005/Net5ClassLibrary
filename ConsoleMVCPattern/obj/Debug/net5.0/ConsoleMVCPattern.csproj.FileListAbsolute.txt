@@ -1,0 +1,12 @@
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ConsoleMVCPattern.deps.json
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ConsoleMVCPattern.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ref\ConsoleMVCPattern.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ConsoleMVCPattern.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.csproj.AssemblyReference.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.AssemblyInfoInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.AssemblyInfo.cs
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.csproj.CoreCompileInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ref\ConsoleMVCPattern.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.pdb

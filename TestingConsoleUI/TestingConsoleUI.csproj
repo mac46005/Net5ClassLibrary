@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
     <ProjectReference Include="..\ConsoleMVCPattern\ConsoleMVCPattern.csproj" />
+    <ProjectReference Include="..\MathScience.ClassLib\MathScience.ClassLib.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
