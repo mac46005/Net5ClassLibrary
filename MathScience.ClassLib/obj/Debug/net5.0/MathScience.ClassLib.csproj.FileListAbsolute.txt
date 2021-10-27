@@ -10,3 +10,19 @@ F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Deb
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\ref\MathScience.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.csproj.AssemblyReference.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.AssemblyInfoInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.AssemblyInfo.cs
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\ref\MathScience.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\obj\Debug\net5.0\MathScience.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\MathScience.ClassLib.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\MathScience.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\ref\MathScience.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\MathScience.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\MathScience.ClassLib.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\MathScience.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\ref\MathScience.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\MathScience.ClassLib.pdb

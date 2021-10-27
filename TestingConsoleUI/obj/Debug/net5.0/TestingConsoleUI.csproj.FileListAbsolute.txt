@@ -22,3 +22,27 @@ F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\obj\Debug\n
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.genruntimeconfig.cache
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\MathScience.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\MathScience.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.csproj.AssemblyReference.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.AssemblyInfoInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.AssemblyInfo.cs
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\ref\TestingConsoleUI.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\TestingConsoleUI.exe
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\TestingConsoleUI.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\TestingConsoleUI.runtimeconfig.json
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\TestingConsoleUI.runtimeconfig.dev.json
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\TestingConsoleUI.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\ref\TestingConsoleUI.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\TestingConsoleUI.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\Dapper.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\ConsoleMVCPattern.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\DataAccess.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\MathScience.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\DataAccess.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\ConsoleMVCPattern.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\MathScience.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.csproj.CopyComplete
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.genruntimeconfig.cache

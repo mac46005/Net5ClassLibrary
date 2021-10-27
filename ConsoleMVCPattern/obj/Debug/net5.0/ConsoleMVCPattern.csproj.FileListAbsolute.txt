@@ -10,3 +10,19 @@ F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ref\ConsoleMVCPattern.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.csproj.AssemblyReference.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.AssemblyInfoInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.AssemblyInfo.cs
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ref\ConsoleMVCPattern.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\obj\Debug\net5.0\ConsoleMVCPattern.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\ConsoleMVCPattern.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\ConsoleMVCPattern.dll
+D:\PROGRAMMING\GIT REPOSITORIES\ref\ConsoleMVCPattern.dll
+D:\PROGRAMMING\GIT REPOSITORIES\ConsoleMVCPattern.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ConsoleMVCPattern.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ConsoleMVCPattern.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ref\ConsoleMVCPattern.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ConsoleMVCPattern.pdb

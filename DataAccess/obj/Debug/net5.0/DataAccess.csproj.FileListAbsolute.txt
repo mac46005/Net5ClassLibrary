@@ -22,3 +22,19 @@ F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\DataAccess.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\DataAccess.dll
+D:\PROGRAMMING\GIT REPOSITORIES\ref\DataAccess.dll
+D:\PROGRAMMING\GIT REPOSITORIES\DataAccess.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\DataAccess.pdb
