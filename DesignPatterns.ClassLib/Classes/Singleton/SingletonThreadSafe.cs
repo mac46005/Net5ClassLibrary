@@ -1,4 +1,7 @@
 namespace DesignPatterns.ClassLib.Classes.Singleton{
+    /// <summary>
+    /// Thread safe version of a Singleton
+    /// </summary>
     public sealed class SingletonThreadSafe{
         private static SingletonThreadSafe _instance = null;
         private static readonly object _lock = new object();

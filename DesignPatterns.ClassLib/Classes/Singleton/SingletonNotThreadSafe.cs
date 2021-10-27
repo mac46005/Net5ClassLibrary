@@ -1,4 +1,7 @@
 namespace DesignPatterns.ClassLib.Classes.Singleton{
+    /// <summary>
+    /// Not thread safe version of a Singleton
+    /// </summary>
     public sealed class SingletonNotThreadSafe{
         private static SingletonNotThreadSafe _instance = null;
         private SingletonNotThreadSafe(){}
