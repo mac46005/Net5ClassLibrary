@@ -1,11 +1,11 @@
-using ConsoleMVCPattern.Interfaces;
 using System.Collections.Generic;
+using ConsoleMVCPattern.Interfaces;
 
 namespace ConsoleMVCPattern.Classes{
     public class Controller : IController{
         private IModel model;
+        public List<IView> ViewList { get; set; }
         private IView responseView;
-        public List<IView> ViewList {get;set;}
         public Controller(){
             responseView = new View();
         }
