@@ -34,6 +34,26 @@
           "bin/placeholder/DataAccess.dll": {}
         }
       },
+      "DBAccess.ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DBAccess.ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DBAccess.ClassLib.dll": {}
+        }
+      },
+      "DesignPatterns.ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DesignPatterns.ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatterns.ClassLib.dll": {}
+        }
+      },
       "MathScience.ClassLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -75,6 +95,16 @@
       "path": "../DataAccess/DataAccess.csproj",
       "msbuildProject": "../DataAccess/DataAccess.csproj"
     },
+    "DBAccess.ClassLib/1.0.0": {
+      "type": "project",
+      "path": "../DBAccess.ClassLib/DBAccess.ClassLib.csproj",
+      "msbuildProject": "../DBAccess.ClassLib/DBAccess.ClassLib.csproj"
+    },
+    "DesignPatterns.ClassLib/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatterns.ClassLib/DesignPatterns.ClassLib.csproj",
+      "msbuildProject": "../DesignPatterns.ClassLib/DesignPatterns.ClassLib.csproj"
+    },
     "MathScience.ClassLib/1.0.0": {
       "type": "project",
       "path": "../MathScience.ClassLib/MathScience.ClassLib.csproj",
@@ -84,28 +114,33 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "ConsoleMVCPattern >= 1.0.0",
+      "DBAccess.ClassLib >= 1.0.0",
       "DataAccess >= 1.0.0",
+      "DesignPatterns.ClassLib >= 1.0.0",
       "MathScience.ClassLib >= 1.0.0"
     ]
   },
   "packageFolders": {
     "C:\\Users\\mac46\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj",
+      "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj",
       "projectName": "TestingConsoleUI",
-      "projectPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj",
+      "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj",
       "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-      "outputPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\TestingConsoleUI\\obj\\",
+      "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\TestingConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\mac46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -120,14 +155,20 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj": {
-              "projectPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj"
+            "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj": {
+              "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj"
             },
-            "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj"
+            "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {
-              "projectPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj"
+            "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj": {
+              "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj"
+            },
+            "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj": {
+              "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj"
+            },
+            "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {
+              "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj"
             }
           }
         }
@@ -156,7 +197,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

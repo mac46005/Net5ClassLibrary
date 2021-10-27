@@ -26,3 +26,7 @@ D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ConsoleMVCPattern.dll
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ref\ConsoleMVCPattern.dll
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\ConsoleMVCPattern\bin\Debug\net5.0\ConsoleMVCPattern.pdb
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\ConsoleMVCPattern.deps.json
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\ConsoleMVCPattern.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\ref\ConsoleMVCPattern.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\ConsoleMVCPattern.pdb

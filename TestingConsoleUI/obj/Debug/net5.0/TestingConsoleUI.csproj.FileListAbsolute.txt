@@ -46,3 +46,10 @@ D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\MathScience.ClassLib.pdb
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.csproj.CopyComplete
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\obj\Debug\net5.0\TestingConsoleUI.genruntimeconfig.cache
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\TestingConsoleUI.exe
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\TestingConsoleUI.deps.json
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\TestingConsoleUI.runtimeconfig.json
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\TestingConsoleUI.runtimeconfig.dev.json
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\TestingConsoleUI.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\ref\TestingConsoleUI.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\TestingConsoleUI.pdb

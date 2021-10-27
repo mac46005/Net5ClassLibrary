@@ -38,3 +38,7 @@ D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\Dat
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\DataAccess.dll
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\DataAccess.deps.json
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\DataAccess.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\ref\DataAccess.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\DataAccess.pdb

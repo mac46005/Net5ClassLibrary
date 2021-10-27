@@ -1,0 +1,12 @@
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\DesignPatterns.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\DesignPatterns.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\ref\DesignPatterns.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\DesignPatterns.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\DesignPatterns.ClassLib.csproj.AssemblyReference.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\DesignPatterns.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\DesignPatterns.ClassLib.AssemblyInfoInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\DesignPatterns.ClassLib.AssemblyInfo.cs
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\DesignPatterns.ClassLib.csproj.CoreCompileInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\DesignPatterns.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\ref\DesignPatterns.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DesignPatterns.ClassLib\obj\Debug\net5.0\DesignPatterns.ClassLib.pdb

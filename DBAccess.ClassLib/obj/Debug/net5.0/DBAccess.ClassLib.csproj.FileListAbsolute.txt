@@ -1,0 +1,12 @@
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\DBAccess.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\DBAccess.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\ref\DBAccess.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\DBAccess.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.csproj.AssemblyReference.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.AssemblyInfoInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.AssemblyInfo.cs
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.csproj.CoreCompileInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\ref\DBAccess.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.pdb

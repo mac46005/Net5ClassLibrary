@@ -26,3 +26,7 @@ D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\MathScience.ClassLib.dll
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\ref\MathScience.ClassLib.dll
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\MathScience.ClassLib\bin\Debug\net5.0\MathScience.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\MathScience.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\MathScience.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\ref\MathScience.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\DllCollection\MathScience.ClassLib.pdb
