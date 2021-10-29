@@ -1,4 +1,6 @@
 ﻿using System;
+using DesignPatterns.ClassLib.Classes.Builder;
+using DesignPatterns.ClassLib.Interfaces.Builder;
 
 namespace TestingConsoleUI
 {
@@ -6,7 +8,11 @@ namespace TestingConsoleUI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Director director = new Director();
+            IBuilder b1 = new ConcreteBuilder1();
+            director.Construct(b1);
+            Console.WriteLine(b1.GetProduct());
+            Console.ReadLine();
         }
     }
 }
