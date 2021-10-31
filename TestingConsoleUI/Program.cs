@@ -7,27 +7,27 @@ namespace TestingConsoleUI
     {
         static void Main(string[] args)
         {
-            // This is a sample of an array with 2 rows and 3 elements each
-            // also called a matrix
-            string[,] textArray = new string[2,3];
-            // You can also initialize multidemensional arrays directly
-            int[,] intArray = new int[,]{
-                {1,2,3},
-                {4,5,6}
-            };
-            // Use the index position to get a value to a multidimensional
-            // array element .If there is already a value set for an element, it will
-            //be replaced
-            //int number = intArray[1,0];
-            // To loop through a multidimensional array, you can use the GetUpperBounds()
-            // method to get the length of a specific deimension of the array
-            for (int row = 0; row < intArray.GetUpperBound(0); row++)
+            int[][] jaggedArray = new int[2][];
+            //Use the index position to set a value to a multidimensional array
+            //element. If there is already a value set for an element, it will be
+            // replaced.
+            jaggedArray[0] = new int[]{1,2,3};
+            jaggedArray[1] = new int[2];
+            jaggedArray[1][0] = 4;
+            jaggedArray[1][1] = 5;
+
+            for (int i = 0; i < jaggedArray.Length; i++)
             {
-                for (int col = 0; col < intArray.GetUpperBound(0); col++)
+                for (int j = 0; j < jaggedArray[i].Length; j++)
                 {
-                    Console.WriteLine(intArray[row,col]);
+                    Console.WriteLine(jaggedArray[i][j]);
                 }
             }
+            //You can also initialize Jagged arrays directly
+            int[][] jaggedArray2 = new int[2][]{
+                new int[]{1,2,3},
+                new int[]{4,5}
+            };
             Console.ReadLine();
         }
     }
