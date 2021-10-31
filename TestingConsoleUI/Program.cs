@@ -7,33 +7,28 @@ namespace TestingConsoleUI
     {
         static void Main(string[] args)
         {
-            string[] textArray = new string[10];
-
-            int[] intArray = new int[]{1,2,3,4};
-
-            SampleUserDefType[] sampleUserDefTypes = new SampleUserDefType[15];
-            textArray[2] = "Text Sample";
-            intArray[3] = 3;
-
-            sampleUserDefTypes[1] = new SampleUserDefType(){TextProperty = "text",IntProperty = 42};
-            string text = textArray[4];
-            int number = intArray[3];
-
-            SampleUserDefType userDefinedElement = sampleUserDefTypes[1];
-
-            for (int i = 0; i < textArray.Length; i++)
+            // This is a sample of an array with 2 rows and 3 elements each
+            // also called a matrix
+            string[,] textArray = new string[2,3];
+            // You can also initialize multidemensional arrays directly
+            int[,] intArray = new int[,]{
+                {1,2,3},
+                {4,5,6}
+            };
+            // Use the index position to get a value to a multidimensional
+            // array element .If there is already a value set for an element, it will
+            //be replaced
+            //int number = intArray[1,0];
+            // To loop through a multidimensional array, you can use the GetUpperBounds()
+            // method to get the length of a specific deimension of the array
+            for (int row = 0; row < intArray.GetUpperBound(0); row++)
             {
-                Console.WriteLine(textArray[i]);
+                for (int col = 0; col < intArray.GetUpperBound(0); col++)
+                {
+                    Console.WriteLine(intArray[row,col]);
+                }
             }
-            for (int i = 0; i < intArray.GetUpperBound(0); i++)
-            {
-                Console.WriteLine(textArray[i]);
-            }
-            for (int i = 0; i < sampleUserDefTypes.GetUpperBound(0); i++)
-            {
-                Console.WriteLine(sampleUserDefTypes[i]?.TextProperty);
-            }
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }
