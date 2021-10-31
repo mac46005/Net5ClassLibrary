@@ -14,3 +14,15 @@ F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\b
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\ref\PeopleInformation.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\ref\PeopleInformation.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.csproj.AssemblyReference.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.AssemblyInfoInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.AssemblyInfo.cs
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\ref\PeopleInformation.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\PeopleInformation.ClassLib\obj\Debug\net5.0\PeopleInformation.ClassLib.pdb
