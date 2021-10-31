@@ -69,3 +69,5 @@ D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\DBAccess.ClassLib.pdb
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\People.ClassLib.pdb
 D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\PeopleInformation.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\Algorithms.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\TestingConsoleUI\bin\Debug\net5.0\Algorithms.ClassLib.pdb

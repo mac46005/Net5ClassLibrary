@@ -11,6 +11,16 @@
           "lib/net5.0/Dapper.dll": {}
         }
       },
+      "Algorithms.ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Algorithms.ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Algorithms.ClassLib.dll": {}
+        }
+      },
       "ConsoleMVCPattern/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -108,6 +118,11 @@
         "lib/netstandard2.0/Dapper.xml"
       ]
     },
+    "Algorithms.ClassLib/1.0.0": {
+      "type": "project",
+      "path": "../Algorithms.ClassLib/Algorithms.ClassLib.csproj",
+      "msbuildProject": "../Algorithms.ClassLib/Algorithms.ClassLib.csproj"
+    },
     "ConsoleMVCPattern/1.0.0": {
       "type": "project",
       "path": "../ConsoleMVCPattern/ConsoleMVCPattern.csproj",
@@ -146,6 +161,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Algorithms.ClassLib >= 1.0.0",
       "ConsoleMVCPattern >= 1.0.0",
       "DBAccess.ClassLib >= 1.0.0",
       "DataAccess >= 1.0.0",
@@ -187,6 +203,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj": {
+              "projectPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj"
+            },
             "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj": {
               "projectPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj"
             },

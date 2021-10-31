@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "TestingConsoleUI/1.0.0": {
         "dependencies": {
+          "Algorithms.ClassLib": "1.0.0",
           "ConsoleMVCPattern": "1.0.0",
           "DBAccess.ClassLib": "1.0.0",
           "DataAccess": "1.0.0",
@@ -26,6 +27,11 @@
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "2.0.90.36046"
           }
+        }
+      },
+      "Algorithms.ClassLib/1.0.0": {
+        "runtime": {
+          "Algorithms.ClassLib.dll": {}
         }
       },
       "ConsoleMVCPattern/1.0.0": {
@@ -83,6 +89,11 @@
       "sha512": "sha512-e4YjOLJptnpwHIbP8HxjaYf7So9lhUC43rvvGMEkH4Q4CiVlm4rOxYDo0HyuHlMQKj0U5Ob/nCMm52TUhTaZQg==",
       "path": "dapper/2.0.90",
       "hashPath": "dapper.2.0.90.nupkg.sha512"
+    },
+    "Algorithms.ClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "ConsoleMVCPattern/1.0.0": {
       "type": "project",
