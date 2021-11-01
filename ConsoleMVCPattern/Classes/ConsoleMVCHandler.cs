@@ -6,6 +6,7 @@ namespace ConsoleMVCPattern.Classes
 
     public class ConsoleMVCHandler
     {
+        private object temp {get;set;}
         private string controllerStart;
         List<IConsoleController> ConsoleControllerList { get; set; } = new List<IConsoleController>();
         private void SubscribeToControllers(){

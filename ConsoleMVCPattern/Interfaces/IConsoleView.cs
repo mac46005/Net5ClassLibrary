@@ -1,7 +1,6 @@
 namespace ConsoleMVCPattern.Interfaces.ViewInterfaces{
-    public interface IConsoleView{
+    public interface IConsoleView : IHaveModel{
         string ViewName {get;}
-        object Model {get;}
         void Render();
     }
 }
