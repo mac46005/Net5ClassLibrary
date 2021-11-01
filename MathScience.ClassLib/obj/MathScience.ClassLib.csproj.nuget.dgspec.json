@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {}
+    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {}
   },
   "projects": {
-    "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {
+    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj",
+        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj",
         "projectName": "MathScience.ClassLib",
-        "projectPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj",
+        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\obj\\",
+        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

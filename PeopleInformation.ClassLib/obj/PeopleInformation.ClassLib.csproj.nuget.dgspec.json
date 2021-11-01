@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {}
+    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {}
   },
   "projects": {
-    "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {
+    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj",
+        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj",
         "projectName": "PeopleInformation.ClassLib",
-        "projectPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj",
+        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\obj\\",
+        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

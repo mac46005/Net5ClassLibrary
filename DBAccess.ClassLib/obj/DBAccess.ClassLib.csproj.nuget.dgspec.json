@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj": {}
+    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj": {}
   },
   "projects": {
-    "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj": {
+    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj",
+        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj",
         "projectName": "DBAccess.ClassLib",
-        "projectPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj",
+        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "D:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\obj\\",
+        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
