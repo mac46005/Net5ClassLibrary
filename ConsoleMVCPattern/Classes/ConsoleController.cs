@@ -10,5 +10,11 @@ namespace ConsoleMVCPattern.Classes{
         {
             throw new System.NotImplementedException();
         }
+
+        protected virtual void OnChangeController(IConsoleController controller){
+            if(ChangeControl != null){
+                ChangeControl(this,new ConsoleControllerEventHandler{ConsoleController = controller});
+            }
+        }
     }
 }

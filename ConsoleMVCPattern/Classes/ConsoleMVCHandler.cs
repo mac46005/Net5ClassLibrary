@@ -18,7 +18,7 @@ namespace ConsoleMVCPattern.Classes
         {
 
         }
-        private void OnControllerEvent(IConsoleController controller){
+        private void OnControllerEvent(object source,ConsoleControllerEventHandler e){
 
         }
 
