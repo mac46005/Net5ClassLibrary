@@ -6,6 +6,8 @@ namespace ConsoleMVCPattern.Classes
 
     public class ConsoleMVCHandler
     {
+        private string controllerStart;
+        List<IConsoleController> ConsoleControllerList { get; set; } = new List<IConsoleController>();
         public ConsoleMVCHandler(string controlStart)
         {
             SubscribeToControllers();
@@ -17,9 +19,6 @@ namespace ConsoleMVCPattern.Classes
                 controller.ChangeControl += OnControllerEvent;
             }
         }
-
-
-        private string controllerStart;
         private void SetStartingPoint(string controller)
         {
 
@@ -27,7 +26,8 @@ namespace ConsoleMVCPattern.Classes
         private void OnControllerEvent(IConsoleController controller){
 
         }
-        List<IConsoleController> ConsoleControllerList { get; set; } = new List<IConsoleController>();
+        private void ChangeEvent(){
 
+        }
     }
 }
