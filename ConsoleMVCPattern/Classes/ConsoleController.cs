@@ -18,6 +18,12 @@ namespace ConsoleMVCPattern.Classes{
         public virtual void Initialize(){
 
         }
+        
+
+
+
+
+
 
         //* START CHANGE CONTROL EVENT
         public event EventHandler<ConsoleControllerEventHandler> ChangeControl;
