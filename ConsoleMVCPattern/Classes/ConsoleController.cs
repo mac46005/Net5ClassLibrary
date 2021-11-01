@@ -7,7 +7,17 @@ namespace ConsoleMVCPattern.Classes{
     {
         public string _viewStart;
         public object Model { get; set; }
+        public ConsoleController()
+        {
+            
+        }
+        public ConsoleController(string viewStart)
+        {
+            _viewStart = viewStart;
+        }
+        public void Initialize(){
 
+        }
         public ConsoleController(string viewStart)
         {
             _viewStart = viewStart;
