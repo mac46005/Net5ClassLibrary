@@ -7,7 +7,7 @@ namespace ConsoleMVCPattern.Classes{
 
         public object Model { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
 
-        public void Render()
+        public virtual void Render()
         {
             throw new System.NotImplementedException();
         }
