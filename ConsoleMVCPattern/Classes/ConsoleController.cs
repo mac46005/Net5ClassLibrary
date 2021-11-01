@@ -5,10 +5,12 @@ using ConsoleMVCPattern.Interfaces.ViewInterfaces;
 namespace ConsoleMVCPattern.Classes{
     public abstract class ConsoleController : IConsoleController
     {
+        public string _viewStart;
         public object Model { get; set; }
-        public void Initialize()
+
+        public ConsoleController(string viewStart)
         {
-            throw new System.NotImplementedException();
+            _viewStart = viewStart;
         }
 
         //* START CHANGE CONTROL EVENT
@@ -23,14 +25,17 @@ namespace ConsoleMVCPattern.Classes{
 
 
 
-        public void ConsoleViewResult()
-        {
-            throw new NotImplementedException();
-        }
 
-        public void ViewResult(IConsoleView cv)
+
+
+        //*START VIEWCONSOLEVIEWRESULT EVENT
+        public EventHandler<ConsoleViewResultArgs> ViewConsoleViewResult;
+        public virtual void ConsoleViewResult(IConsoleView cv)
         {
-            
+            if(ViewConsoleViewResult != null){
+                ViewConsoleViewResult(this,new ConsoleViewResultArgs{ConsoleView = cv});
+            }
         }
+        //!END VIEWCONSOLEVIEWRESULT EVENT
     }
 }
