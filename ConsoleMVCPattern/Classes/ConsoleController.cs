@@ -1,9 +1,10 @@
+using System;
 using ConsoleMVCPattern.Interfaces;
 
 namespace ConsoleMVCPattern.Classes{
     public abstract class ConsoleController : IConsoleController
     {
-        public event IConsoleController.ControllerEventHandler ChangeControl;
+        public event EventHandler<ConsoleControllerEventHandler> ChangeControl;
 
         public void Initialize()
         {
