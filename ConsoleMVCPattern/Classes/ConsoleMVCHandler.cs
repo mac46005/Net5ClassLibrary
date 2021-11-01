@@ -17,12 +17,13 @@ namespace ConsoleMVCPattern.Classes
         public void SetStartingPoint(string controller)
         {
 
+
         }
         private void OnControllerEvent(object source,ConsoleControllerEventHandler e){
             StartController(e.ConsoleController);
         }
         private void StartController(IConsoleController controller){
-            
+            controller.Initialize();
         }
 
     }
