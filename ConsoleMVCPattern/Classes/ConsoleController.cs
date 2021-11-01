@@ -15,12 +15,8 @@ namespace ConsoleMVCPattern.Classes{
         {
             _viewStart = viewStart;
         }
-        public void Initialize(){
+        public virtual void Initialize(){
 
-        }
-        public ConsoleController(string viewStart)
-        {
-            _viewStart = viewStart;
         }
 
         //* START CHANGE CONTROL EVENT
@@ -31,11 +27,6 @@ namespace ConsoleMVCPattern.Classes{
             }
         }
         //! END CHANGE CONTROL EVENT
-
-
-
-
-
 
 
         //*START VIEWCONSOLEVIEWRESULT EVENT
