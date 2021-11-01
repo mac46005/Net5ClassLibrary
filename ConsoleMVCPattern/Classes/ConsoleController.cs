@@ -5,8 +5,7 @@ using ConsoleMVCPattern.Interfaces.ViewInterfaces;
 namespace ConsoleMVCPattern.Classes{
     public abstract class ConsoleController : IConsoleController
     {
-        public object Model { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-
+        public object Model { get; set; }
         public void Initialize()
         {
             throw new System.NotImplementedException();
@@ -22,6 +21,8 @@ namespace ConsoleMVCPattern.Classes{
         //! END CHANGE CONTROL EVENT
 
 
+
+
         public void ConsoleViewResult()
         {
             throw new NotImplementedException();
@@ -30,11 +31,6 @@ namespace ConsoleMVCPattern.Classes{
         public void ViewResult(IConsoleView cv)
         {
             
-        }
-
-        public void ViewResult()
-        {
-            throw new NotImplementedException();
         }
     }
 }
