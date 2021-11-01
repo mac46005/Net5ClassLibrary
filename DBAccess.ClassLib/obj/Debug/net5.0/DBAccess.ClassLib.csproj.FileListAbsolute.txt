@@ -14,3 +14,15 @@ F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\DBAccess.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\ref\DBAccess.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\DBAccess.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\DBAccess.ClassLib.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\DBAccess.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\ref\DBAccess.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\bin\Debug\net5.0\DBAccess.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.csproj.AssemblyReference.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.AssemblyInfoInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.AssemblyInfo.cs
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\ref\DBAccess.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\DBAccess.ClassLib\obj\Debug\net5.0\DBAccess.ClassLib.pdb

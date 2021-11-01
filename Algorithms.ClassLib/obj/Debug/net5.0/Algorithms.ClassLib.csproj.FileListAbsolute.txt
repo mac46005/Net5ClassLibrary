@@ -1,0 +1,12 @@
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\bin\Debug\net5.0\Algorithms.ClassLib.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\bin\Debug\net5.0\Algorithms.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\bin\Debug\net5.0\ref\Algorithms.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\bin\Debug\net5.0\Algorithms.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\obj\Debug\net5.0\Algorithms.ClassLib.csproj.AssemblyReference.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\obj\Debug\net5.0\Algorithms.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\obj\Debug\net5.0\Algorithms.ClassLib.AssemblyInfoInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\obj\Debug\net5.0\Algorithms.ClassLib.AssemblyInfo.cs
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\obj\Debug\net5.0\Algorithms.ClassLib.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\obj\Debug\net5.0\Algorithms.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\obj\Debug\net5.0\ref\Algorithms.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\Algorithms.ClassLib\obj\Debug\net5.0\Algorithms.ClassLib.pdb

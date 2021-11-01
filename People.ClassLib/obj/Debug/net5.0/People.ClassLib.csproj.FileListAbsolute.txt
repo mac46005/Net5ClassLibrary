@@ -17,3 +17,18 @@ F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\People.ClassLib\bin\Debug\ne
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\People.ClassLib.pdb
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.dll
 F:\PROGRAMMING\GitHub_Repositories\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\People.ClassLib.deps.json
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\People.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\ref\People.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\People.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\bin\Debug\net5.0\PeopleInformation.ClassLib.pdb
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\obj\Debug\net5.0\People.ClassLib.csproj.AssemblyReference.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\obj\Debug\net5.0\People.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\obj\Debug\net5.0\People.ClassLib.AssemblyInfoInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\obj\Debug\net5.0\People.ClassLib.AssemblyInfo.cs
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\obj\Debug\net5.0\People.ClassLib.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\obj\Debug\net5.0\People.ClassLib.csproj.CopyComplete
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\obj\Debug\net5.0\People.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\obj\Debug\net5.0\ref\People.ClassLib.dll
+D:\PROGRAMMING\GIT REPOSITORIES\Net5ClassLibrary\People.ClassLib\obj\Debug\net5.0\People.ClassLib.pdb
