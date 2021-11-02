@@ -1,10 +1,13 @@
 using System.Collections.Generic;
+using System.Threading;
+using System.Threading.Tasks;
 using ConsoleMVCPattern.Interfaces;
+using Microsoft.Extensions.Hosting;
 
 namespace ConsoleMVCPattern.Classes
 {
 
-    public class  ConsoleMVC_Worker
+    public class  ConsoleMVC_Worker : BackgroundService
     {
         private object temp {get;set;}
         private string controllerStart;
@@ -42,5 +45,9 @@ namespace ConsoleMVCPattern.Classes
             controller.Initialize();
         }
 
+        protected override Task ExecuteAsync(CancellationToken stoppingToken)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

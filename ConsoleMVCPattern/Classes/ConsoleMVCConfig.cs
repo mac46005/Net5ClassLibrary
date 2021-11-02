@@ -1,5 +1,8 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
 namespace ConsoleMVCPattern.Classes{
     public class ConsoleMVCConfig{
@@ -16,6 +19,12 @@ namespace ConsoleMVCPattern.Classes{
             .Where(cc => cc.Name.EndsWith("ConsoleController"))
             .ToList()
             .ForEach(t => ListOfObjects.Add(t));
+        }
+        static IHostBuilder CreateHostBuilder(string[] args,object obj){
+            var type = typeof(obj);
+            IHostBuilder hostBuilder =  Host.CreateDefaultBuilder(args)
+            .ConfigureServices((_,services) 
+            => services.AddHostedService<>());
         }
     }
 }
