@@ -7,23 +7,11 @@ namespace ConsoleMVCPattern.Classes{
     {
         public string _viewStart;
         public object Model { get; set; }
-        public ConsoleController()
-        {
-            
-        }
+
         public ConsoleController(string viewStart)
         {
             _viewStart = viewStart;
         }
-        public virtual void Initialize(){
-
-        }
-        
-
-
-
-
-
 
         //* START CHANGE CONTROL EVENT
         public event EventHandler<ConsoleControllerEventHandler> ChangeControl;
@@ -35,6 +23,11 @@ namespace ConsoleMVCPattern.Classes{
         //! END CHANGE CONTROL EVENT
 
 
+
+
+
+
+
         //*START VIEWCONSOLEVIEWRESULT EVENT
         public EventHandler<ConsoleViewResultArgs> ViewConsoleViewResult;
         public virtual void ConsoleViewResult(IConsoleView cv)
@@ -42,6 +35,11 @@ namespace ConsoleMVCPattern.Classes{
             if(ViewConsoleViewResult != null){
                 ViewConsoleViewResult(this,new ConsoleViewResultArgs{ConsoleView = cv});
             }
+        }
+
+        public virtual void Initialize()
+        {
+            throw new NotImplementedException();
         }
         //!END VIEWCONSOLEVIEWRESULT EVENT
     }

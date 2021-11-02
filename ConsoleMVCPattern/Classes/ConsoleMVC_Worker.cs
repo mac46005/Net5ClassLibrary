@@ -4,7 +4,7 @@ using ConsoleMVCPattern.Interfaces;
 namespace ConsoleMVCPattern.Classes
 {
 
-    public class ConsoleMVCHandler
+    public class  ConsoleMVC_Worker
     {
         private object temp {get;set;}
         private string controllerStart;
@@ -34,7 +34,7 @@ namespace ConsoleMVCPattern.Classes
 
 
 
-        
+
         private void OnControllerEvent(object source,ConsoleControllerEventHandler e){
             StartController(e.ConsoleController);
         }

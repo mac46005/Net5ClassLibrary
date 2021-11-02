@@ -6,5 +6,6 @@ namespace ConsoleMVCPattern.Interfaces{
     public interface IConsoleController : IHaveModel{
         event EventHandler<ConsoleControllerEventHandler> ChangeControl;
         void ConsoleViewResult(IConsoleView cv);
+        void Initialize();
     }
 }
