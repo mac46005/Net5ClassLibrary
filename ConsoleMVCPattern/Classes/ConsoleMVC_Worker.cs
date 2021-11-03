@@ -7,7 +7,7 @@ namespace ConsoleMVCPattern.Classes{
     {
 
 
-        private void SubscribeToEvents(){
+        private void SubscribeToControllerEvent(){
            GetType().Assembly.GetTypes()
            .Where(t => t.IsClass); 
         }
