@@ -5,8 +5,9 @@ using Microsoft.Extensions.Hosting;
 
 namespace ConsoleMVCPattern.Classes
 {
-    public class ConsoleMVCStartupBase : IConsoleMVCStartup
+    public class ConsoleMVCStartupBase
     {
+        
         private string _consoleControllerStartUp;
         public void SetConsoleControllerStartUp(string consoleControllerStartUp){
             if(!consoleControllerStartUp.EndsWith("ConsoleController")){
