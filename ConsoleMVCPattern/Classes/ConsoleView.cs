@@ -1,3 +1,4 @@
+using static System.Console;
 using ConsoleMVCPattern.Interfaces.ViewInterfaces;
 
 namespace ConsoleMVCPattern.Classes{
@@ -5,11 +6,11 @@ namespace ConsoleMVCPattern.Classes{
     {
         public string ViewName => throw new System.NotImplementedException();
 
-        public object Model { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+        public object Model { get; set; }
 
         public virtual void Render()
         {
-            throw new System.NotImplementedException();
+            WriteLine("Hello World!");
         }
     }
 }

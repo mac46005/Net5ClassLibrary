@@ -5,8 +5,7 @@ using Microsoft.Extensions.Hosting;
 namespace ConsoleMVCPattern.Classes{
     public class ConsoleMVC_Worker : BackgroundService
     {
-
-
+        
         private void SubscribeToControllerEvent(){
            GetType().Assembly.GetTypes()
            .Where(t => t.IsClass); 
@@ -14,7 +13,6 @@ namespace ConsoleMVCPattern.Classes{
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            throw new System.NotImplementedException();
         }
     }
 }

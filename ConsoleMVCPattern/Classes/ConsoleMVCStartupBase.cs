@@ -7,6 +7,15 @@ namespace ConsoleMVCPattern.Classes
 {
     public class ConsoleMVCStartupBase : IConsoleMVCStartup
     {
+        private string _consoleControllerStartUp;
+        public void SetConsoleControllerStartUp(string consoleControllerStartUp){
+            if(!consoleControllerStartUp.EndsWith("ConsoleController")){
+
+            }
+            else{
+                _consoleControllerStartUp = consoleControllerStartUp;
+            }
+        }
         public virtual IServiceCollection ConfigureServices(IServiceCollection services)
         {
 
