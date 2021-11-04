@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PdpdYHz/sTR1c22keytAWht36cD1E/phxMwDs0VeHl0hpvGapucy/8gr97K5szLjVbozanEagUu3WhUFQcfo4g==",
+  "dgSpecHash": "NS4odxIosGROzKUttqkIFfsauSDH75F9+rG/yM+YCxZc62k3Jnu476OWBUBcwBfZOLwwecR9AaukqDgKyC7C2A==",
   "success": true,
-  "projectFilePath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj",
+  "projectFilePath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mac46\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0-rc.2.21480.5\\microsoft.extensions.configuration.6.0.0-rc.2.21480.5.nupkg.sha512",
     "C:\\Users\\mac46\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0-rc.2.21480.5\\microsoft.extensions.configuration.abstractions.6.0.0-rc.2.21480.5.nupkg.sha512",

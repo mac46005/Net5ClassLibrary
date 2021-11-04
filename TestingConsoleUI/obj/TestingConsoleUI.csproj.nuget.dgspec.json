@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj": {}
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj": {}
   },
   "projects": {
-    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj",
         "projectName": "Algorithms.ClassLib",
-        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\Algorithms.ClassLib\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\Algorithms.ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\mac46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -58,24 +60,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj",
         "projectName": "ConsoleMVCPattern",
-        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\ConsoleMVCPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\mac46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -122,24 +126,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DataAccess\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\mac46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -186,24 +192,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj",
         "projectName": "DBAccess.ClassLib",
-        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DBAccess.ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\mac46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -244,24 +252,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj",
         "projectName": "DesignPatterns.ClassLib",
-        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DesignPatterns.ClassLib\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DesignPatterns.ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\mac46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -302,24 +312,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj",
         "projectName": "MathScience.ClassLib",
-        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\MathScience.ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\mac46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -360,24 +372,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\People.ClassLib\\People.ClassLib.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\People.ClassLib\\People.ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\People.ClassLib\\People.ClassLib.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\People.ClassLib\\People.ClassLib.csproj",
         "projectName": "People.ClassLib",
-        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\People.ClassLib\\People.ClassLib.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\People.ClassLib\\People.ClassLib.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\People.ClassLib\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\People.ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\mac46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -392,8 +406,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {
-                "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj"
+              "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {
+                "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj"
               }
             }
           }
@@ -422,24 +436,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj",
         "projectName": "PeopleInformation.ClassLib",
-        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\PeopleInformation.ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\mac46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -480,24 +496,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj",
         "projectName": "TestingConsoleUI",
-        "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\TestingConsoleUI\\TestingConsoleUI.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\TestingConsoleUI\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\TestingConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\mac46\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -512,29 +530,29 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj": {
-                "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj"
+              "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj": {
+                "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\Algorithms.ClassLib\\Algorithms.ClassLib.csproj"
               },
-              "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj": {
-                "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj"
+              "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj": {
+                "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\ConsoleMVCPattern\\ConsoleMVCPattern.csproj"
               },
-              "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj"
+              "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DataAccess\\DataAccess.csproj"
               },
-              "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj": {
-                "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj"
+              "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj": {
+                "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DBAccess.ClassLib\\DBAccess.ClassLib.csproj"
               },
-              "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj": {
-                "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj"
+              "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj": {
+                "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\DesignPatterns.ClassLib\\DesignPatterns.ClassLib.csproj"
               },
-              "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {
-                "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj"
+              "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj": {
+                "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\MathScience.ClassLib\\MathScience.ClassLib.csproj"
               },
-              "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\People.ClassLib\\People.ClassLib.csproj": {
-                "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\People.ClassLib\\People.ClassLib.csproj"
+              "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\People.ClassLib\\People.ClassLib.csproj": {
+                "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\People.ClassLib\\People.ClassLib.csproj"
               },
-              "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {
-                "projectPath": "d:\\PROGRAMMING\\GIT REPOSITORIES\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj"
+              "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj": {
+                "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\Net5ClassLibrary\\PeopleInformation.ClassLib\\PeopleInformation.ClassLib.csproj"
               }
             }
           }
@@ -563,7 +581,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

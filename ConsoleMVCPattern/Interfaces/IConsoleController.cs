@@ -7,5 +7,6 @@ namespace ConsoleMVCPattern.Interfaces{
         event EventHandler<ConsoleControllerEventHandler> ChangeControl;
         void ConsoleViewResult(IConsoleView cv);
         void Initialize();
+        string ControllerName();
     }
 }

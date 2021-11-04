@@ -42,5 +42,10 @@ namespace ConsoleMVCPattern.Classes{
             throw new NotImplementedException();
         }
         //!END VIEWCONSOLEVIEWRESULT EVENT
+        public string ControllerName()
+        {
+            return this.GetType().Name;
+        }
+        
     }
 }
