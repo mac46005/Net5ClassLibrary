@@ -1,10 +1,10 @@
 using static System.Console;
 using ConsoleMVCPattern.Interfaces.ViewInterfaces;
 
-namespace ConsoleMVCPattern.Classes{
+namespace ConsoleMVCPattern.Classes.Base{
     public class ConsoleView : IConsoleView
     {
-        public string ViewName => throw new System.NotImplementedException();
+        public string ViewName {get => this.GetType().Name; }
 
         public object Model { get; set; }
 
@@ -12,5 +12,7 @@ namespace ConsoleMVCPattern.Classes{
         {
             WriteLine("Hello World!");
         }
+
+
     }
 }
