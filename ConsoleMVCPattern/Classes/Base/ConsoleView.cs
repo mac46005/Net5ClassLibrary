@@ -1,5 +1,7 @@
 using static System.Console;
 using ConsoleMVCPattern.Interfaces.ViewInterfaces;
+using ConsoleMVCPattern.Classes.EventArgs;
+using System;
 
 namespace ConsoleMVCPattern.Classes.Base{
     public class ConsoleView : IConsoleView
@@ -14,5 +16,13 @@ namespace ConsoleMVCPattern.Classes.Base{
         }
 
 
+
+
+        public event EventHandler<ConsoleViewEventArgs> ViewEnded;
+        protected virtual void OnConsoleViewEnd(){
+            if(ViewEnded != null){
+                ViewEnded(this,new ConsoleViewEventArgs(){Model = this.Model});
+            }
+        }
     }
 }

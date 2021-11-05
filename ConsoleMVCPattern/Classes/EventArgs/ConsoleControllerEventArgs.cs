@@ -1,7 +1,7 @@
 using ConsoleMVCPattern.Interfaces;
 
-namespace ConsoleMVCPattern.Classes.EventHandlers{
-    public class ConsoleControllerEventHandler{
+namespace ConsoleMVCPattern.Classes.EventArgs{
+    public class ConsoleControllerEventArgs{
         public IConsoleController ConsoleController {get;set;}
     }
 }
